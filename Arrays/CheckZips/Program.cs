@@ -9,6 +9,26 @@ namespace CheckZips
     {
         static void Main(string[] args)
         {
+            int[] zip = { 18040, 18042, 18045, 18111, 18112, 18113, 18114, 18115, 18116, 18117 };
+
+            Console.WriteLine("Please Enter a Zip Code: ");
+            string input = Console.ReadLine();
+            int zipcode = Convert.ToInt32(input);
+
+            int state = 0;
+            for (int i = 0; i < zip.Length; i++)
+            {
+                if (zipcode == zip[i])
+                {
+                    Console.WriteLine("We deliver to that zipcode!");
+                    state = 1;
+                    break;
+                }
+                
+            }
+            if (state == 0)
+                Console.WriteLine("Sorry, We don't deliver to that zipcode.");
+
         }
     }
 }

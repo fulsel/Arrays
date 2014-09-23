@@ -1,0 +1,4 @@
+C:\Users\eahscs\Documents\GitHub\Arrays\Arrays\ChatAWhile\bin\Debug\ChatAWhile.exe
+C:\Users\eahscs\Documents\GitHub\Arrays\Arrays\ChatAWhile\bin\Debug\ChatAWhile.pdb
+C:\Users\eahscs\Documents\GitHub\Arrays\Arrays\ChatAWhile\obj\x86\Debug\ChatAWhile.exe
+C:\Users\eahscs\Documents\GitHub\Arrays\Arrays\ChatAWhile\obj\x86\Debug\ChatAWhile.pdb
