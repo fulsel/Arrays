@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckZips", "CheckZips\Chec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatAWhile", "ChatAWhile\ChatAWhile.csproj", "{1CEE228E-1468-470D-BCCC-6C0CCA974AAB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhippetBus", "whippetBus\WhippetBus.csproj", "{A5627D60-CF1E-48DA-906D-C3F02AFC8717}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeeBall", "TeeBall\TeeBall.csproj", "{721396A3-391F-4784-AC27-E19E2E22066D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -25,6 +29,14 @@ Global
 		{1CEE228E-1468-470D-BCCC-6C0CCA974AAB}.Debug|x86.Build.0 = Debug|x86
 		{1CEE228E-1468-470D-BCCC-6C0CCA974AAB}.Release|x86.ActiveCfg = Release|x86
 		{1CEE228E-1468-470D-BCCC-6C0CCA974AAB}.Release|x86.Build.0 = Release|x86
+		{A5627D60-CF1E-48DA-906D-C3F02AFC8717}.Debug|x86.ActiveCfg = Debug|x86
+		{A5627D60-CF1E-48DA-906D-C3F02AFC8717}.Debug|x86.Build.0 = Debug|x86
+		{A5627D60-CF1E-48DA-906D-C3F02AFC8717}.Release|x86.ActiveCfg = Release|x86
+		{A5627D60-CF1E-48DA-906D-C3F02AFC8717}.Release|x86.Build.0 = Release|x86
+		{721396A3-391F-4784-AC27-E19E2E22066D}.Debug|x86.ActiveCfg = Debug|x86
+		{721396A3-391F-4784-AC27-E19E2E22066D}.Debug|x86.Build.0 = Debug|x86
+		{721396A3-391F-4784-AC27-E19E2E22066D}.Release|x86.ActiveCfg = Release|x86
+		{721396A3-391F-4784-AC27-E19E2E22066D}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
