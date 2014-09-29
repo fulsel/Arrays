@@ -15,18 +15,18 @@ namespace CheckZips
             string input = Console.ReadLine();
             int zipcode = Convert.ToInt32(input);
 
-            int state = 0;
+            bool found = false;
             for (int i = 0; i < zip.Length; i++)
             {
                 if (zipcode == zip[i])
                 {
                     Console.WriteLine("We deliver to that zipcode!");
-                    state = 1;
+                    found = true;
                     break;
                 }
                 
             }
-            if (state == 0)
+            if (!found)
                 Console.WriteLine("Sorry, We don't deliver to that zipcode.");
 
         }
